@@ -1,0 +1,102 @@
+/*
+    Student Name: Hung Nguyen
+    Student ID: 301####66
+    Section: COMP 213 - 011
+    Instructor: Liliya Artyukh
+    ASSIGNMENT 3
+*/
+
+body {
+font-family: cursive, sans-serif ;
+font-weight: 700;
+font-size: 0.8em;
+width: 80%;
+margin: auto;
+min-width: 500px;
+}
+.banner-pic{
+    max-height: 150px;
+}
+.banner{
+    text-align: center;
+    background : rgb(230, 0, 18) ;
+    
+}
+.intro{
+    background : rgb(230, 0, 18) ;
+    display: block;
+    height: auto;
+    min-height: 250px;
+}
+nav{
+    text-align: center;
+}
+.sample-pic {
+    height: 200px;
+    margin-bottom: 5px;
+}
+.pic-section {
+    float: left;
+    padding-bottom: 20px;
+    margin-right: 30px;
+    font-family: 'Press Start 2P', sans-serif, cursive;
+    text-align: center;
+    background : rgb(230, 0, 18) ;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.description{
+    line-height: 1.2rem;
+    margin: auto;
+    color: white;
+}
+h1{
+    font-family: 'Press Start 2P', sans-serif, cursive;
+}
+li{
+    list-style:inside;
+}
+ul{
+     padding: 10px;
+}
+table{
+    margin-top: 10px;
+    text-align: center;
+    border-width: 2px;
+    border-style: solid;
+    border-collapse: collapse;
+    width: 100%;
+}
+tr{
+    border-collapse: collapse;
+}
+td,th{
+    border-width: 2px;
+    border-style: solid;
+    width: auto;
+}
+th{
+    background : rgb(230, 0, 18) ;
+    color: white;
+    border-color: black;
+}
+td{
+    min-width: 180px;
+}
+
+.distributors{
+    text-align: center;
+    font-family: 'Press Start 2P', sans-serif, cursive;
+}
+.foot{
+    font-family: 'Press Start 2P', sans-serif, cursive;
+    text-align: center;
+    background : rgb(230, 0, 18) ;
+    color: white;
+    min-height: 20px;
+}
+footer{
+    margin: auto;
+}
